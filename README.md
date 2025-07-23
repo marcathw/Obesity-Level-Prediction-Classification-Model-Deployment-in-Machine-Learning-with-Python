@@ -1,0 +1,2 @@
+# Obesity-Level-Prediction-Classification-Model-Deployment-in-Machine-Learning-with-Python
+This project builds a classification model using XGBoost to predict an individual's obesity level based on physical, demographic, and lifestyle attributes. The trained model is deployed using a FastAPI backend, with an interactive Streamlit web app providing a user-friendly interface for real-time prediction.
