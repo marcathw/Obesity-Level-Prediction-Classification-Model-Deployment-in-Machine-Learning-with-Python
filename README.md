@@ -59,7 +59,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
 
 3.  **Run the FastAPI backend:**
-    Open a terminal and run the following command. The API will be available at `http://127.0.0.1:8000`.
+    Open a terminal and run the following command. The API will be available at `http://127.0.0.1:7000`.
     ```bash
     uvicorn api.main:app --reload
     ```
